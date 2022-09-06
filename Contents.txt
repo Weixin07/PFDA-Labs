@@ -1,0 +1,76 @@
+Contents
+Lectures
+Lecture 2 
+- Some mathematical equations used to explain the order of operators.
+- Codes to remove and check the data type of variable is shown.
+- Codes to validate data type of variable.
+- Codes to count the number of characters of the value in a variable.
+- Codes to convert data types.
+- The usage of vectors are shown.
+- The usage of factors are shown.
+- The usage of some built-in functions like min, max and mean.
+
+Labs
+Lab 1 
+- Some simple arithmatic operations.
+- Shows how to view, install, uninstall, load and unload packages.
+
+Lab 2 
+- Shows some operator used.
+- Explains the order of operators.
+- Explains about how variables can be named and assigned a value to.
+- Shows the removal of variables.
+- Explains about the data types that can be used in R.
+- Shows how to convert a variable into another data type.
+- Shows how to validate a variable's data type.
+- The practice question at the bottom: 
+
+	i. Define a new variable, "weeks", then assign 4 to it using the operator (<-).
+	ii. Define a new variable, "hoursPerWeek", then assign 40 to it using the operator (=).
+	iii. Define a new variable, "hourlyRate", then assign 50 to it using assign function.
+	iv. Remove the variable "hourlyRate" and update with "HOURLYRATE"
+	v. Convert weeks to datatype integer
+	vi. "bonuse" as integer and assign 1000 to it.
+	vii. "tax" as numeric and assign 0.2 to it.
+	viii. Calculate the gross salary(W X HPW X HR) and net salary(grossSal X (1-tax))
+
+Lab 3 (in lecture)
+- Shows more data storing methods (Matrix, Array, Data Frame, List).
+- Show how to create, view and modify them.
+
+Lab 3
+- Shows data storing methods (Vector, Factors).
+- Shows how to create, view and modify them.
+- Finding length and values.
+- Generating random numbers.
+- Finding the "number of levels" - categories.
+- Shows built-in functions: min, max, sum, mean, median, sort, round and sqrt.
+- Shows how to repeat something.
+- Shows how to display a message in the console.
+
+Lab 4
+- Shows other data structures (Matrix, Array).
+- Shows how to create, view and modify them.
+- Mathematical Operations by Matrices.
+
+Lab 5
+- Shows other data structures (Data Frame, List).
+- Shows how to create, view and modigy them.
+- Getting data from built-in dataset and external sources (txt file, csv file and excel sheet).
+
+Lab 6
+- Control statements (if and else, ifelse, switch).
+- Loop statements (for, while, repeat).
+
+Lab 7
+- Data Exploration (Importing, cleaning, pre-preocessing, exploration, visualization and manipulation).
+
+Lab 8
+- Data Visualization (Pie Charts and Line Graphs).
+- Utilization of ggplot.
+
+Lab 9
+- Data Manipulation and Transformation.
+- Utilization of dplyr.
+- subset, sample, select, filter, summarize, mutate, arrange, piping and groupby.
+
